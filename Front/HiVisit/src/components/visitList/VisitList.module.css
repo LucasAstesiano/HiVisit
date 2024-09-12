@@ -1,0 +1,88 @@
+.visit_section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.visit_container{
+ width: 60%;
+ margin-top: 40px;
+/*  border: red 1px solid;
+ */
+}
+.visit_head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.visit_head input{
+    border-radius: 8px;
+    border: 0.2px solid gray;
+    padding: 2px;
+}
+.search_visit{
+    width: 50%;
+    height: 20px;
+}
+.btn_search{
+    width: 85px;
+    border-radius: 8px;
+    padding: 5px;
+    border: none;
+    background-color: black;
+    color: white;
+    transition: 1s;
+    margin-left: 2px;
+}
+.btn_search:hover{
+    cursor: pointer;
+}
+.btn_search:active{
+    transition: 0.5s;
+    transform: translate3d(2px,2px,10px);
+    background-color: rgb(36, 39, 66);
+}
+
+.refresh {
+    margin-bottom: 4px;
+    text-align: end;
+    margin-right: 8px;
+    color: black;
+    margin-left: 5px;
+}
+
+.refresh :hover{
+    color: gray;
+    cursor: pointer;
+}
+.refresh :active{
+    color: black;
+}
+
+.card_visit{
+    border: 0.2px gray solid;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.button_cart{
+    display: flex;
+    justify-content: space-between;
+}
+.button_cart button{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: 1s;
+}
+.button_cart button:hover{
+    background-color: black;
+    color: white;
+}
+.button_cart p{
+    color: green;
+}

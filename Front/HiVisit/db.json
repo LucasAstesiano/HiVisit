@@ -1,0 +1,82 @@
+{
+  "visitas": [
+    {
+      "id": "ba86",
+      "name": "Julieta Tutor",
+      "date": "2024-06-18",
+      "plate": "CCC333",
+      "dni": "43833793"
+    },
+    {
+      "id": "411c",
+      "name": "JUANA LA LOCA",
+      "date": "2001-02-24",
+      "plate": "86HO4S",
+      "dni": "54756447"
+    },
+    {
+      "id": "666d",
+      "name": "Marrcos Galperin",
+      "date": "2024-06-08",
+      "plate": "ldm 726",
+      "dni": "44140442"
+    },
+    {
+      "id": "11e2",
+      "name": "el nova",
+      "date": "2024-06-13",
+      "plate": "34275",
+      "dni": "346648879"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "4bd8",
+      "name": "Nelson Mandela",
+      "telefono": "2612494435",
+      "direccion": " Africa 12b",
+      "password": "1234",
+      "visitas": []
+    },
+    {
+      "id": "dcbb",
+      "name": "Lucas Astesiano",
+      "telefono": "2612494435",
+      "direccion": "pueyrredon 5336 m18 c2",
+      "password": "1234",
+      "visitas": []
+    },
+    {
+      "id": "1fa6",
+      "name": "Lionel Messi ",
+      "telefono": "2612494435",
+      "direccion": "Rosario 7432 m4 c12",
+      "password": "1234",
+      "visitas": []
+    },
+    {
+      "id": "0228",
+      "name": "juan paco",
+      "telefono": "blablabla",
+      "direccion": " pacolandia 12",
+      "password": "1234",
+      "visitas": []
+    },
+    {
+      "id": "57eb",
+      "name": "Julian Alvarez",
+      "telefono": "2612494435",
+      "direccion": " cordoba 7632",
+      "password": "1234",
+      "visitas": []
+    },
+    {
+      "id": "9f34",
+      "name": "la joaqui",
+      "telefono": "114743925",
+      "direccion": " villa 31",
+      "password": "lajoaqui",
+      "visitas": []
+    }
+  ]
+}

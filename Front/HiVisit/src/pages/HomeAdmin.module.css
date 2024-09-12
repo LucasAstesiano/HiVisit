@@ -1,0 +1,119 @@
+.home_admin{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.admin_table{
+    width: 90%;
+}
+.admin_table td:hover{
+  background-color: white;
+}
+.button_delete_table{
+    color: white;
+    background-color: #ff0000;
+    border-radius: 6px;
+    border: none;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.button_allow_table{
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+    border: none;
+    margin-left: 10px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.button_allow_table:hover{
+    background-color: rgb(1, 78, 1);
+}
+
+.button_delete_table:hover{
+    background-color: #920606;
+}
+
+.button_action{
+    text-align: center;
+}
+
+.container_search {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section_search {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .search_title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .search_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form_group {
+    margin-bottom: 20px;
+  }
+  
+  .form_group label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form_group input[type="text"],
+  .form_group input[type="email"],
+  .form_group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form_group button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form_group button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  .edit {
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .close {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .close:hover {
+    background-color: #cc0000;
+  }

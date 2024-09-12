@@ -1,0 +1,72 @@
+.container_add{
+    display: flex;
+    justify-content: center;
+    
+}
+.saludo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+    padding: 2px 8px;
+    width:fit-content;
+    color: rgb(16, 3, 61);
+    margin-top: 4px;
+    font-size:medium;
+}
+.add_section {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    margin-top: 40px;
+}
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.box {
+    width: 35%;
+    margin-bottom: 30px;
+}
+
+.box p {
+    font-weight: 600;
+    text-align: start;
+    margin-left: 110px;
+}
+
+.box input {
+    padding: 10px 2px;
+    border: 0.5px solid gray;
+    border-radius: 8px;
+    width: 60%
+}
+.box select{
+    padding: 10px 2px;
+    border: 0.5px solid gray;
+    border-radius: 8px;
+    width: 60%
+}
+
+.add_section button {
+    width: 80%;
+    margin-top: 30px;
+    padding: 12px 0px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 6px;
+    transition: 1s;
+}
+
+.add_section button:hover {
+    background-color: rgb(32, 30, 56);
+    color: rgb(202, 202, 202);
+    cursor: pointer;
+}
+.add_section button:active{
+    transform: translate3d(6px,6px,2px);
+    background-color: black;
+}
